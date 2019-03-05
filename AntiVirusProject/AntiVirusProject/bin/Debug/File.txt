@@ -1,0 +1,18 @@
+C:\emu8086\MySource\11388-GCD LCM.asm
+C:\emu8086\MySource\11805 Bafana Bafana.asm
+C:\emu8086\MySource\2D Array.asm
+C:\emu8086\MySource\Check.asm
+C:\emu8086\MySource\coco-cola store.asm
+C:\emu8086\MySource\Cola.asm
+C:\emu8086\MySource\Hazz-e-akbar.asm
+C:\emu8086\MySource\Muldiv.asm
+C:\emu8086\MySource\packing for holiday.asm
+C:\emu8086\MySource\PallinDrome.asm
+C:\emu8086\MySource\Reverse.asm
+C:\emu8086\MySource\StringLab.asm
+C:\emu8086\MySource\strPallindrome.asm
+C:\emu8086\MySource\SubSequence.asm
+C:\emu8086\MySource\substring.asm
+C:\emu8086\MySource\SumArray.asm
+C:\emu8086\MySource\t.txt
+C:\emu8086\MySource\Uva cola.asm
